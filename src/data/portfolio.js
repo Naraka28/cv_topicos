@@ -1,30 +1,30 @@
 export default[
     {
         title: "Pestañeo",
-        imgUrl: "https://lh3.google.com/u/0/d/1jWATbctopfmIJkm7W0GTYkCjO0D1FhN1=w1243-h953-iv1",
+        imgUrl: "assets/pestaneo.jpeg",
         stack:["React", "Tailwind", "Vite", "Node.js"],
-        link: "https://www.google.com"
+        link: "https://github.com/Naraka28/"
     },
     {
         title: "BazaSalón",
-        imgUrl: "https://lh3.google.com/u/0/d/1tUHz40dVDiLltGcf2RQA5VnvfglsiLuz=w1920-h953-iv1",
+        imgUrl: "assets/bazaImagev2.png",
         stack:["React", "Tailwind", "Vite", "Node.js"],
-        link: "https://www.google.com"
+        link: "https://github.com/Naraka28/bazasalonv2"
     },
     {
         title: "Explorador de Revistas",
-        imgUrl: "https://lh3.google.com/u/0/d/156vJAUxZELN0nXC6AAgk8orAuclQaviu=w1243-h953-iv1",
+        imgUrl: "assets/explorador.jpeg",
         stack:["Python", "Tailwind", "Flask"],
-        link: ""
+        link: "https://github.com/Naraka28/Proyecto_DS4"
     },{
         title: "Braintive",
-        imgUrl: "https://via.placeholder.com/150",
+        imgUrl: "assets/braintivev2.png",
         stack:["Python","Pandas", "Polars","StatsForecast","Scikit-learn"],
-        link: "https://www.google.com"
+        link: "https://github.com/Naraka28"
     },{
         title: "McQueen Rentals",
-        imgUrl: "https://lh3.google.com/u/0/d/1LEqD3SjoMhtOHQxtpJn2ybhVMLy7wKJW=w1920-h953-iv1",
-        stack:["HTML", "CSS", "JS"],
-        link: "https://www.google.com"
+        imgUrl: "assets/mcqueen.jpeg",
+        stack:["Java", "PostgreSQL"],
+        link: "https://github.com/Naraka28/CRUD_BD"
     }
 ]
