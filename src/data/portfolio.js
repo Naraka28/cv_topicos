@@ -19,7 +19,7 @@ export default[
     },{
         title: "Braintive",
         imgUrl: "https://via.placeholder.com/150",
-        stack:["HTML", "CSS", "JS"],
+        stack:["Python","Pandas", "Polars","StatsForecast","Scikit-learn"],
         link: "https://www.google.com"
     },{
         title: "McQueen Rentals",
