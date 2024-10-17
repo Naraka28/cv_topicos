@@ -4,6 +4,7 @@ import { Contact } from "./components/Contact";
 import { Footer } from "./components/Footer";
 import { Portfolio } from "./components/Portfolio";
 import { Timeline } from "./components/Timeline";
+import { Video } from "./components/Video";
 
 export function App() {
   const [theme, setTheme] = useState(null);
@@ -120,7 +121,7 @@ export function App() {
           >
             {linkedin}
           </a>
-          <a href="assets/costos.pdf" download="CV_Daniel_Estrada.pdf">
+          <a href="assets/Daniel_CV_DEF.pdf" download="CV_Daniel_Estrada.pdf">
             <button
               type="button"
               className="p-2 z-10 right-36 top-4 bg-violet-300 dark:bg-white text-lg rounded-md cursor cursor-pointer"
@@ -143,6 +144,7 @@ export function App() {
           <Intro />
           <Portfolio />
           <Timeline />
+		  <Video/>
           <Contact />
           <Footer />
         </div>
